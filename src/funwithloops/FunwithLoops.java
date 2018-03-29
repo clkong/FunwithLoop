@@ -132,7 +132,7 @@ public class FunwithLoops extends javax.swing.JFrame {
        
     }//GEN-LAST:event_jButton1ActionPerformed
 
-    /**
+    /**FUn
      * @param args the command line arguments
      */
     public static void main(String args[]) {
