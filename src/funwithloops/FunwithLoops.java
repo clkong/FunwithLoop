@@ -129,7 +129,6 @@ public class FunwithLoops extends javax.swing.JFrame {
         System.out.println(counting);
      }
     jLabel4.setText(counting);
-       
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**FUn
